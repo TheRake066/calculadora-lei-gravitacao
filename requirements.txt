@@ -1,0 +1,2 @@
+colorama>=0.4.6
+inquirerpy>=0.3.4
