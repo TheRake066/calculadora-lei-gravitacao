@@ -34,18 +34,13 @@ Onde:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-gravitacional.git
-   cd calculadora-gravitacional
+   git clone https://github.com/TheRake066/calculadora-lei-gravitacao.git
+   cd calculadora-lei-gravitacao
    ```
 
-2. **Instale as dependências:**
+2. **Execute a calculadora:**
    ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Execute a calculadora:**
-   ```bash
-   python calculadora_gravitacional.py
+   python calc-ret-number.py
    ```
 
 ## 💫 Exemplos de uso
@@ -128,20 +123,6 @@ Força gravitacional (Fg) = 1.982e+20 N
 - **Astronomia**: Cálculo de forças entre corpos celestes
 - **Engenharia espacial**: Planejamento de órbitas
 - **Exercícios acadêmicos**: Resolução de problemas
-
-## 🛠️ Estrutura do projeto
-
-```
-calculadora-gravitacional/
-│
-├── calculadora_gravitacional.py  # Código principal
-├── README.md                     # Este arquivo
-├── requirements.txt              # Dependências
-└── examples/                     # Exemplos de uso (opcional)
-    ├── terra_lua.md
-    ├── planetas.md
-    └── satelites.md
-```
 
 ## 🤝 Contribuindo
 
